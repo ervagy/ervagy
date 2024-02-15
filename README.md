@@ -23,7 +23,7 @@ I'm currently studying at FH Salzburg in the MultiMediaTechnology program, curre
 ### Ruby on Rails Project
 - Description: This is my recent project where I used Ruby on Rails to develop a web application.
 - Technologies Used: Ruby on Rails, HTML, SASS, JavaScript
-- [Link zum Projekt](https://abra.projects.multimediatechnology.at/)
+- [Visit JourneyYourself](https://abra.projects.multimediatechnology.at/)
 
 ## Contact Me
 📧 Email: [h.gueyen@gmail.com](mailto:h.gueyen@gmail.com)
