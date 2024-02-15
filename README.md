@@ -1,4 +1,4 @@
-# Hi there, I'm Erva Heling Güyen! 👋
+# Hi there, I'm Erva Helin! 👋
 
 I'm currently studying at FH Salzburg in the MultiMediaTechnology program, currently in the 4th semester, with a focus on Web Development. In the 3rd semester, I worked in the HR section of FH Salzburg.
 
